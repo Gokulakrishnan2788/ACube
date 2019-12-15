@@ -1,0 +1,13 @@
+
+msquid:UselessImportCheck"IRemove this unused import 'com.facebook.stetho.okhttp.StethoInterceptor'.(Ş«£…
+Zsquid:UselessImportCheck "1Remove this unused import 'okhttp3.OkHttpClient'.(ì€’Àùÿÿÿÿ
+Rsquid:S2696+"6Make the enclosing method "static" or remove this set.(û€Ì›ùÿÿÿÿ
+?squid:S1185:"(Remove this method to simply inherit it.(òÈ‰í
+O
+squid:S106a"9Replace this use of System.out or System.err by a logger.(Ğ×Æ’
+Csquid:S4423r",Change this code to use a stronger protocol.(öÅøæ
+Fsquid:S00108}")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ
+>squid:S1481z"'Remove this unused "in" local variable.(‰±ğ
+bsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(Ó½ÑØ
+bsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(ôÓûÉ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–êìĞ

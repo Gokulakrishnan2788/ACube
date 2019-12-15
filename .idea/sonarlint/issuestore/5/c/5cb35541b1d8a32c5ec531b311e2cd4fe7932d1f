@@ -1,0 +1,19 @@
+
+isquid:S1192´"LDefine a constant instead of duplicating this literal " Volley ==>" 3 times.(¨ÄŠ¼üÿÿÿÿ
+gsquid:S1301i"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+hsquid:S1301Ö"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+jsquid:S00117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áèó½
+Gsquid:S1659-"0Declare "confirmPasswordEdt" on a separate line.(¯¹»¹
+Dsquid:S1659-"-Declare "currPasswordEdt" on a separate line.(¯¹»¹
+U"squid:SwitchLastCaseIsDefaultChecki""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+jsquid:S1871€"MThis branch's code block is the same as the block for the branch on line 119.(ò™ñéúÿÿÿÿ
+qsquid:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ
+Ysquid:S1854©"ARemove this useless assignment to local variable "error_message".(áèó½
+Ssquid:S1854½";Remove this useless assignment to local variable "success".(òÀŒ
+Vsquid:S1854¾"9Remove this useless assignment to local variable "error".(æÉ˜¬øÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckÖ""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
+Jsquid:S1481©"2Remove this unused "error_message" local variable.(áèó½
+Dsquid:S1481½",Remove this unused "success" local variable.(òÀŒ
+Gsquid:S1481¾"*Remove this unused "error" local variable.(æÉ˜¬øÿÿÿÿ
+Ksquid:S1068."/Remove this unused "accessToken" private field.(µûú®ıÿÿÿÿ
+gsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(Ì‰˜ûøÿÿÿÿ

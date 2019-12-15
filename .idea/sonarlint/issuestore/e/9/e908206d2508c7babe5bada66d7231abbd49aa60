@@ -1,0 +1,28 @@
+
+^squid:S1192…"FDefine a constant instead of duplicating this literal "---->" 3 times.(üŞ’ÿ
+Ksquid:S1066q"/Merge this if statement with the enclosing one.(¨¬Ü¢úÿÿÿÿ
+Lsquid:S1066›"/Merge this if statement with the enclosing one.(¨¬Ü¢úÿÿÿÿ
+Lsquid:S1066Å"/Merge this if statement with the enclosing one.(¨¬Ü¢úÿÿÿÿ
+Lsquid:S1066ï"/Merge this if statement with the enclosing one.(¨¬Ü¢úÿÿÿÿ
+Lsquid:S1066"/Merge this if statement with the enclosing one.(¨¬Ü¢úÿÿÿÿ
+Lsquid:S1066Ñ"/Merge this if statement with the enclosing one.(¨¬Ü¢úÿÿÿÿ
+Lsquid:S1066ş"/Merge this if statement with the enclosing one.(¨¬Ü¢úÿÿÿÿ
+Lsquid:S1066ã"/Merge this if statement with the enclosing one.(¨¬Ü¢úÿÿÿÿ
+Lsquid:S1066"/Merge this if statement with the enclosing one.(¨¬Ü¢úÿÿÿÿ
+Lsquid:S1066À"/Merge this if statement with the enclosing one.(¨¬Ü¢úÿÿÿÿ
+Usquid:S18546">Remove this useless assignment to local variable "parameters".(±„ÓÙ
+nsquid:S3776]"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ç¼ûØÿÿÿÿÿ
+jsquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Šùİ”
+jsquid:S3776³"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(±ÂÔÍ
+osquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÍÉ¡æıÿÿÿÿ
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(£¯ê„
+jsquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(­ÕúÏ
+osquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÇœÜŠÿÿÿÿÿ
+jsquid:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ïÄ›¿
+jsquid:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ôì›
+Jsquid:S1172Ğ"2Remove this unused method parameter "serviceType".(ôì›
+jsquid:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(§Øé
+osquid:S3776«"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(õ¦ßûÿÿÿÿ
+Fsquid:S14816"/Remove this unused "parameters" local variable.(±„ÓÙ
+gsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(˜Ë¦óÿÿÿÿÿ
+csquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(ïÊàÛ

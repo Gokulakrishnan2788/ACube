@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="5dp"
+    android:background="#fad407"
+    card_view:cardCornerRadius="4dp"
+    card_view:contentPadding="1dp">
+
+    <LinearLayout
+        android:id="@+id/llay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/movieIv"
+            android:layout_width="200dp"
+            android:layout_height="260dp"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/hint_image"
+            android:scaleType="fitXY"
+            android:src="@drawable/pic1"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/movieTitleTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:gravity="left"
+            android:maxLines="1"
+            android:text="Household "
+            android:textColor="@color/color_dark_gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/movieLangTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="5dp"
+            android:gravity="left"
+            android:maxLines="1"
+            android:text=""
+            android:textColor="@color/color_dark_gray"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>

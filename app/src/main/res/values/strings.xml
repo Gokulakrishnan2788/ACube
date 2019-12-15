@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">ACube</string>
+    <string name="hint_signin">LOGIN</string>
+    <string name="hint_splash">EXCLUSIVE APP FOR ORIGINAL\nINDIAN MOVIES</string>
+
+    <string name="hint_cast">Cast : James T Kirk, Harlan Elison\nDirector : Theodore Sturgeon\nCartification : U/ A\nLanguage : English \nGenre : Action</string>
+    <string name="hint_username">User Name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="hint_current">Current Password</string>
+    <string name="hint_search">Search by Title, Artist, Genre</string>
+    <string name="hint_create_pass">Create Password</string>
+    <string name="hint_email">Email address</string>
+    <string name="hint_forgot">Forgot Password ?</string>
+    <string name="hint_signup">Sign Up</string>
+    <string name="hint_register">Register</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_mobile">Mobile No</string>
+    <string name="hint_account">Have an account?</string>
+    <string name="hint_create">Create account</string>
+    <string name="desc">Description</string>
+    <string name="or">Or</string>
+    <string name="hint_image">hint_image</string>
+    <string name="hint_release">Trailer</string>
+    <string name="hint_upcoming">Movies</string>
+    <string name="hint_view_all">View All</string>
+    <string name="hint_all_movies">All Movies</string>
+    <string name="hint_filter">Filter</string>
+    <string name="hint_no_data">No data available</string>
+
+    <string name="menu1">Home</string>
+    <string name="menu2">Movies</string>
+    <string name="menu3">Trailers</string>
+    <string name="menu4">Watch Later</string>
+    <string name="menu5">My Movies</string>
+    <string name="menu6">Profile</string>
+
+    <string name="pay">Pay Now</string>
+    <string name="share">Share</string>
+    <string name="profile">Logout</string>
+    <string name="create_user">Create User</string>
+    <string name="clipboard">ClipBoard</string>
+    <string name="leave_request">Leave Request</string>
+    <string name="tab">Material Tab</string>
+    <string name="sqlite">Database with export</string>
+    <string name="edit_details">Edit Details</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="str_change_pwd">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="address">Address 1</string>
+    <string name="address1">Address 2</string>
+
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+    <string name="hint_welcome">Welcome !</string>
+    <string name="rupee">\u20B9</string>
+    <string name="rs">\u20A8</string>
+
+    <string name="hint_about">About Package</string>
+    <string name="hint_facilities">Facilities</string>
+    <string name="hint_details">Package Details</string>
+    <string name="hint_work">Work hours</string>
+    <string name="hint_back">Back to List</string>
+    <string name="hint_book">Confirm Booking</string>
+    <string name="hint_add">Add on charges</string>
+    <string name="hint_total">Total Amount to be paid</string>
+    <string name="hint_more">Add more Packages</string>
+    <string name="hint_test">Add more Test</string>
+    <string name="hint_enquiry">Add to Enquiry</string>
+    <string name="hint_direction">Get Directions</string>
+    <string name="hint_cart">Your cart is empty</string>
+    <string name="hint_sure">Are you sure ?</string>
+    <string name="hint_check">Home Checkup</string>
+    <string name="hint_lab_location">Lab Location Details</string>
+    <string name="hint_lab_date">Visit Date / Timing Details</string>
+    <string name="hint_remove">Do you want to remove ?</string>
+    <string name="hint_address">No 1833, 18th main road, \nAnna Nagar West,Chennai - 600 040, India</string>
+    <string name="hint_patient">Patient Details</string>
+    <string name="hint_birth">Date of birth</string>
+
+    <string-array name="category">
+        <item>Top News</item>
+        <item>Business</item>
+        <item>Politics</item>
+        <item>Sports</item>
+        <item>Technology</item>
+        <item>Movies</item>
+    </string-array>
+
+    <string name="action_cart">Cart</string>
+    <string name="action_location">Location</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_timing">Select Timings</string>
+    <string name="hint_date">Select Date</string>
+    <string name="hint_note">Note : Cash on service applicable for all bookings.</string>
+    <string name="hint_firstName">First Name</string>
+    <string name="hint_lastName">Last Name</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_address_str">Address</string>
+    <string name="hint_pac_details">Package/Test Details</string>
+    <string name="hint_test_details">Test Details</string>
+    <string name="hint_dob">DOB(DD/MM/YYYY)</string>
+    <string name="hint_search_pac">Package Title / About</string>
+    <string name="hint_search_tests">Search by Test Title</string>
+    <string name="hint_search_lab">Search by Lab Title / Nearby</string>
+    <string name="hint_all_search">Search for Health Packages / Tests / Labs</string>
+
+    <string name="msg_sit_back">ACube will send you an OTP to verify your email address.</string>
+    <string name="msg_manual_otp">(Enter the OTP below which is sent to your registered email address)</string>
+    <string name="lbl_enter_otp">Enter OTP</string>
+    <string name="otp_resend">Regenerate OTP ?</string>
+    <string name="hint_submit">Submit</string>
+
+    <string name="test_name">Test</string>
+    <string name="package_name">Package</string>
+    <string name="test_value">11 DEOXY CORTISOL</string>
+    <string name="test_patiendetails">Prefered Time</string>
+    <string name="test_patiendetails1">Patient Details</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="phone">Phone</string>
+    <string name="number">9876543211</string>
+    <string name="email">Test@test.com</string>
+    <string name="lab_details">Lab Details</string>
+    <string name="name">Name</string>
+    <string name="details">Thoraipakkam \n 4/21, Raju Nagar, 1st Street,\n Mettukuppam, Chennai - 600 097	,Labe \n Beside Bata showroom / KFC, \n Mettukuppam</string>
+    <string name="Email">Email</string>
+    <string name="Address">Address</string>
+    <string name="are_you_sure">Are you Sure?</string>
+    <string name="office_phone">04441412222</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="hint_choose">Filter</string>
+    <string name="hint_cancel">Cancel</string>
+    <string name="hint_terms">I agree to the  <u>Terms &amp; Conditions</u></string>
+    <string name="hint_logout">Are you sure to Logout?       </string>
+    <string name="hint_change_password">Enter the new password</string>
+    <string name="hint_password_confirm">Confirm Password</string>
+</resources>

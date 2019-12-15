@@ -1,0 +1,37 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="bt_height">50dp</dimen>
+    <dimen name="bt_height1">60dp</dimen>
+    <dimen name="bt_height2">70dp</dimen>
+    <dimen name="bt_height3">150dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="seekbar_thumb_width">25dp</dimen>
+    <dimen name="navigation_drawer_width">320dp</dimen>
+
+    <dimen name="card_side_margin">4dp</dimen>
+    <dimen name="card_zero_margin">0dp</dimen>
+
+    <dimen name="rating_height">50dp</dimen>
+    <dimen name="rating_width">50dp</dimen>
+
+    <dimen name="margin_four">@dimen/four</dimen>
+    <dimen name="radius_four">@dimen/four</dimen>
+    <!-- Elevation -->
+    <dimen name="elevation_ten">@dimen/ten</dimen>
+
+    <!-- Spacings -->
+    <dimen name="four">4dp</dimen>
+    <dimen name="six">6dp</dimen>
+    <dimen name="eight">8dp</dimen>
+    <dimen name="ten">10dp</dimen>
+    <dimen name="twelve">12dp</dimen>
+    <dimen name="sixteen">16dp</dimen>
+    <dimen name="twenty">20dp</dimen>
+
+    <dimen name="list_detail_image_size">60dp</dimen>
+    <dimen name="width_list_detail_image_size">130dp</dimen>
+    <dimen name="widget_min_width">110dp</dimen>
+    <dimen name="widget_min_height">110dp</dimen>
+</resources>

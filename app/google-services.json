@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "953958137446",
+    "firebase_url": "https://acube-movie-app.firebaseio.com",
+    "project_id": "acube-movie-app",
+    "storage_bucket": "acube-movie-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953958137446:android:a589172877749bd951b7a7",
+        "android_client_info": {
+          "package_name": "com.jaimovie.acube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953958137446-d1j52trq9t8ujq2mkdka2af37mnsasha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaimovie.acube",
+            "certificate_hash": "2639b330b6bb1fae9829b2495973a024e4eb469d"
+          }
+        },
+        {
+          "client_id": "953958137446-9fdsolfursafdms29eoclfufasq11o4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRmhFEjm2GebItb6HCaA-_CGBKLXdMllA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953958137446-eklosrj2u0pddcqvmqboiej0o27ffgko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "953958137446-kjb7pt16s3rtv80at5klqj6609ughk4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acube.movie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#198C53</color>
+    <color name="colorPrimaryDark">#198C53</color>
+    <color name="colorAccent">#4b4750</color>
+    <color name="colorBg">#F7F7F7</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGray">#5D5D5D</color>
+    <color name="colorYellow">#f79533</color>
+    <color name="color_hint_text">#b0aeb2</color>
+    <color name="color_hint_text10">#66b0aeb2</color>
+    <color name="color_dark_gray">#4b4750</color>
+    <color name="text_rupee_color">#333745</color>
+    <color name="band_gray">#ECECEC</color>
+    <color name="dark_gray">#777777</color>
+    <color name="light_gray">#939393</color>
+    <color name="colorGrey1">#aeabb1</color>
+    <color name="tv_gray_transparency_10">#1A373536</color>
+    <color name="colorAlert">#F47A73</color>
+    <color name="progress_green">#6FC059</color>
+    <color name="bg_login_screen">#E4E4E4</color>
+    <color name="selected_gray">#ffdbdbdb</color>
+    <color name="gray">#616161</color>
+</resources>

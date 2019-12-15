@@ -214,6 +214,7 @@ public class VolleyService {
             };
             queue.add(jsonObj);
         } catch (Exception e) {
+
             Log.e(TAG, "=====>" + e.toString());
         }
     }
